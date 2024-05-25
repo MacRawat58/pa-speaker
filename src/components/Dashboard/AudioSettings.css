@@ -1,0 +1,14 @@
+.audio-settings-container {
+    padding: 20px;
+  }
+  
+  .audio-settings-container h3 {
+    font-size: 20px;
+    color: #007bff;
+  }
+  
+  .audio-settings-container p {
+    font-size: 16px;
+    color: #555;
+  }
+  

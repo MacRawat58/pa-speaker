@@ -1,0 +1,14 @@
+.config-container {
+    padding: 20px;
+  }
+  
+  .config-container h3 {
+    font-size: 20px;
+    color: #007bff;
+  }
+  
+  .config-container p {
+    font-size: 16px;
+    color: #555;
+  }
+  
